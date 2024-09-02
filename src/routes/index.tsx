@@ -20,6 +20,13 @@ export default function Home() {
           About Page
         </A>{" "}
       </p>
+      <p class="my-4">
+        <span>Home</span>
+        {" - "}
+        <A href="/playground" class="text-sky-600 hover:underline">
+          PlayGround
+        </A>{" "}
+      </p>
     </main>
   );
 }
